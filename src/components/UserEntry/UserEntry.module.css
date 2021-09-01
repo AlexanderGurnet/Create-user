@@ -1,0 +1,14 @@
+.list-item {
+  border: 1px solid black;
+  padding: 0.5rem 0.3rem;
+  border-radius: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.list-item__text {
+  margin: 0;
+}
+
+.list-item:last-of-type {
+  margin-bottom: 0;
+}
